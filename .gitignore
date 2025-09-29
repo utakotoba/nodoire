@@ -1,0 +1,5 @@
+# rust
+/target
+
+# os-related
+.DS_Store
