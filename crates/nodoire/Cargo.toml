@@ -1,6 +1,8 @@
 [package]
 name = "nodoire"
+description = "An easy-to-use node graphs library"
 readme = "README.md"
+repository = "https://github.com/utakotoba/nodoire"
 version.workspace = true
 edition.workspace = true
 rust-version.workspace = true
